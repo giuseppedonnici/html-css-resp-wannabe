@@ -141,6 +141,16 @@ img {
     .row .col {
         width: 100%;
     }
+
+    .steps {
+        margin-bottom: 0;
+    }
+
+    .why-us {
+        margin-bottom: 0;
+        padding: 3rem 0;
+        background-color: black;
+    }
 }
 
 @media screen and (max-width: 1160px) {
